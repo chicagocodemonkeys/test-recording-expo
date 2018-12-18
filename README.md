@@ -1,2 +1,2 @@
-# CCM Audio Recording Expo
+# CCM React Native
 
